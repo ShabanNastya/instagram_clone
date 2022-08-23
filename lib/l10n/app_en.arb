@@ -1,0 +1,60 @@
+{
+  "welcome": "Welcome",
+  "@welcome": {
+    "description": "greeting"
+  },
+  "username": "Username",
+  "@username": {
+    "description": "name of user"
+  },
+  "themeMode": "Theme Mode",
+  "@themeMode": {
+    "description": "change theme mode"
+  },
+  "editYourProfile": "Edit your Profile",
+  "goToProfile": "Go to profile",
+  "@goToProfile": {
+    "description": "move to profile page"
+  },
+  "editProfile": "Edit Profile",
+  "chat": "chat",
+  "post": "post",
+  "signOut": "Sign out",
+  "@signOut": {
+    "description": "Sign out of the app"
+  },
+  "read": "Read",
+  "@read": {
+    "description": "Reading data from firebase"
+  },
+  "write": "Write",
+  "@write": {
+    "description": "writing data from firebase"
+  },
+  "writeATitle": "Write a title...",
+  "@writeATitle": {
+    "description": "label"
+  },
+  "writeADescription": "Write a description...",
+  "@writeADescription": {
+    "description": "label"
+  },
+  "submit": "Submit",
+  "@submit": {
+    "description": "submit data to firebase"
+  },
+  "title": "Title:",
+  "description": "descr:",
+  "login": "Login",
+  "register": "Register",
+  "email": "e-mail",
+  "password": "password",
+  "save": "Save",
+  "delete": "Delete",
+  "smthWrong": "Smth wrong",
+  "loading": "Loading...",
+  "sending": "sending...",
+  "@sending": {
+    "description": "send post data to firebase"
+  }
+}

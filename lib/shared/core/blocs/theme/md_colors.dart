@@ -1,0 +1,55 @@
+import 'package:flutter/material.dart';
+
+class MSColors {
+  static const Color kMdThemeLightPrimary = Color(0xFF6750A4);
+  static const Color kMdThemeLightOnPrimary = Color(0xFFFFFFFF);
+  static const Color kMdThemeLightPrimaryContainer = Color(0xFFEADDFF);
+  static const Color kMdThemeLightOnPrimaryContainer = Color(0xFF21005D);
+  static const Color kMdThemeLightSecondary = Color(0xFF625B71);
+  static const Color kMdThemeLightOnSecondary = Color(0xFFFFFFFF);
+  static const Color kMdThemeLightSecondaryContainer = Color(0xFFE8DEF8);
+  static const Color kMdThemeLightOnSecondaryContainer = Color(0xFF1D192B);
+  static const Color kMdThemeLightTertiary = Color(0xFF7D5260);
+  static const Color kMdThemeLightOnTertiary = Color(0xFFFFFFFF);
+  static const Color kMdThemeLightTertiaryContainer = Color(0xFFFFD8E4);
+  static const Color kMdThemeLightOnTertiaryContainer = Color(0xFF31111D);
+  static const Color kMdThemeLightError = Color(0xFFB3261E);
+  static const Color kMdThemeLightErrorContainer = Color(0xFFF9DEDC);
+  static const Color kMdThemeLightOnError = Color(0xFFFFFFFF);
+  static const Color kMdThemeLightOnErrorContainer = Color(0xFF410E0B);
+  static const Color kMdThemeLightBackground = Color(0xFFFFFBFE);
+  static const Color kMdThemeLightOnBackground = Color(0xFF1C1B1F);
+  static const Color kMdThemeLightSurface = Color(0xFFFFFBFE);
+  static const Color kMdThemeLightOnSurface = Color(0xFF1C1B1F);
+  static const Color kMdThemeLightSurfaceVariant = Color(0xFFE7E0EC);
+  static const Color kMdThemeLightOnSurfaceVariant = Color(0xFF49454F);
+  static const Color kMdThemeLightOutline = Color(0xFF79747E);
+  static const Color kMdThemeLightInverseOnSurface = Color(0xFFF4EFF4);
+  static const Color kMdThemeLightInverseSurface = Color(0xFF313033);
+  static const Color kMdThemeDarkPrimary = Color(0xFFD0BCFF);
+
+  static const Color kMdThemeDarkOnPrimary = Color(0xFF381E72);
+  static const Color kMdThemeDarkPrimaryContainer = Color(0xFF4F378B);
+  static const Color kMdThemeDarkOnPrimaryContainer = Color(0xFFEADDFF);
+  static const Color kMdThemeDarkSecondary = Color(0xFFCCC2DC);
+  static const Color kMdThemeDarkOnSecondary = Color(0xFF332D41);
+  static const Color kMdThemeDarkSecondaryContainer = Color(0xFF4A4458);
+  static const Color kMdThemeDarkOnSecondaryContainer = Color(0xFFE8DEF8);
+  static const Color kMdThemeDarkTertiary = Color(0xFFEFB8C8);
+  static const Color kMdThemeDarkOnTertiary = Color(0xFF492532);
+  static const Color kMdThemeDarkTertiaryContainer = Color(0xFF633B48);
+  static const Color kMdThemeDarkOnTertiaryContainer = Color(0xFFFFD8E4);
+  static const Color kMdThemeDarkError = Color(0xFFF2B8B5);
+  static const Color kMdThemeDarkErrorContainer = Color(0xFF8C1D18);
+  static const Color kMdThemeDarkOnError = Color(0xFF601410);
+  static const Color kMdThemeDarkOnErrorContainer = Color(0xFFF9DEDC);
+  static const Color kMdThemeDarkBackground = Color(0xFF1C1B1F);
+  static const Color kMdThemeDarkOnBackground = Color(0xFFE6E1E5);
+  static const Color kMdThemeDarkSurface = Color(0xFF1C1B1F);
+  static const Color kMdThemeDarkOnSurface = Color(0xFFE6E1E5);
+  static const Color kMdThemeDarkSurfaceVariant = Color(0xFF49454F);
+  static const Color kMdThemeDarkOnSurfaceVariant = Color(0xFFCAC4D0);
+  static const Color kMdThemeDarkOutline = Color(0xFF938F99);
+  static const Color kMdThemeDarkInverseOnSurface = Color(0xFF1C1B1F);
+  static const Color kMdThemeDarkInverseSurface = Color(0xFFE6E1E5);
+}
